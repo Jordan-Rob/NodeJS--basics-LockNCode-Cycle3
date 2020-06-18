@@ -1,0 +1,14 @@
+{
+  "name": "developer",
+  "version": "1.0.0",
+  "description": "Node Class",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jordan rob",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

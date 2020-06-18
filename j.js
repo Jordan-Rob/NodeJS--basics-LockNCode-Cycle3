@@ -1,0 +1,1 @@
+const myKicks = require("./mymodule");
